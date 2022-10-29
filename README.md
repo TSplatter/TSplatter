@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://top.gg/servers/843528469740257320">
+  <img src="https://top.gg/api/widget/1027948776440209538.svg">
+</a>
