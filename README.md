@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/838761858683895819.png" alt="Discord">
-</p>
+
